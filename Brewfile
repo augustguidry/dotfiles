@@ -1,14 +1,14 @@
 # Brewfile of August Guidry
-# brew tap
-tap 'homebrew/boneyard'
-tap 'homebrew/bundle'
-tap 'homebrew/cask'
-tap 'homebrew/cask-drivers'
-tap 'homebrew/cask-fonts'
-tap 'homebrew/cask-versions'
-tap 'homebrew/core'
-tap 'homebrew/dev-tools'
-tap 'homebrew/services'
+# brew tap (uncomment below to use)
+# tap 'homebrew/boneyard'
+# tap 'homebrew/bundle'
+# tap 'homebrew/cask'
+# tap 'homebrew/cask-drivers'
+# tap 'homebrew/cask-fonts'
+# tap 'homebrew/cask-versions'
+# tap 'homebrew/core'
+# tap 'homebrew/dev-tools'
+# tap 'homebrew/services'
 
 # brew install
 brew 'asdf'

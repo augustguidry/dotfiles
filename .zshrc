@@ -31,6 +31,7 @@ export GNUPGHOME="$XDG_DATA_HOME"/gnupg
 export HISTFILE="$XDG_STATE_HOME"/zsh/history
 export LESSHISTFILE="$XDG_STATE_HOME"/less/history
 export NODE_REPL_HISTORY="$XDG_DATA_HOME"/node_repl_history
+export PATH="$HOME/.asdf/shims:$PATH"
 export PATH="/opt/homebrew/bin:$PATH"
 export PATH="/opt/homebrew/sbin:$PATH"
 export TERMINFO="$XDG_DATA_HOME"/terminfo                                                                         

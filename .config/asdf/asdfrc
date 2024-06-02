@@ -1,0 +1,17 @@
+# Plugins with support can read the versions files used by other version managers, for example, .ruby-version in the case of Ruby's rbenv.
+legacy_version_file = no
+
+# Configure the asdf update command to upgrade to the latest Release Candidate instead of the latest Semantic Version.
+use_release_candidates = no
+
+# Configure the asdf install command to keep or delete the source code or binary it downloads.
+always_keep_download = no
+
+# Configure the duration (in minutes) between asdf plugin repository syncs. Trigger events result in a check of the duration. If more time has elapsed since the last sync than specified in the duration, a new sync occurs.
+plugin_repository_last_check_duration = 60
+
+# Disable synchronization of the asdf plugin short-name repository. Sync events will exit early if the short-name repository is disabled.
+disable_plugin_short_name_repository = no
+
+# The default number of cores to use during compilation.
+concurrency = auto

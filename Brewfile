@@ -1,8 +1,4 @@
-# Brewfile of August Guidry
-# brew tap (uncomment below to use)
-# tap 'homebrew/boneyard'
-# tap 'homebrew/bundle'
-# tap 'homebrew/cask'
+# Brewfile of August Guidry brew tap (uncomment below to use) tap 'homebrew/boneyard' tap 'homebrew/bundle' tap 'homebrew/cask'
 # tap 'homebrew/cask-drivers'
 # tap 'homebrew/cask-fonts'
 # tap 'homebrew/cask-versions'
@@ -10,7 +6,7 @@
 # tap 'homebrew/dev-tools'
 # tap 'homebrew/services'
 
-# brew install
+# "brew install [APP]"
 brew 'asdf'
 brew 'bash'
 brew 'buku'
@@ -27,7 +23,6 @@ brew 'docker-compose'
 brew 'eza'
 brew 'fd'
 brew 'ffmpeg'
-brew 'font-monaspace'
 brew 'fzf'
 brew 'gh'
 brew 'git'
@@ -97,7 +92,7 @@ brew 'zsh'
 brew 'zsh-autosuggestions'
 brew 'zsh-syntax-highlighting'
 
-# brew install --cask
+# "brew install --cask [APP]"
 cask 'alacritty'
 cask 'anki'
 cask 'appcleaner'
@@ -105,12 +100,14 @@ cask 'blender'
 cask 'calibre'
 cask 'customshortcuts'
 cask 'font-hack-nerd-font'
+cask 'font-monaspace'
 cask 'gemini'
 cask 'github'
 cask 'gpg-suite'
 cask 'iterm2'
 cask 'keyclu'
 cask 'krita'
+cask 'librewolf', args: { no_quarantine: true }
 cask 'love'
 cask 'mactracker'
 cask 'mpv'
@@ -119,6 +116,7 @@ cask 'obs'
 cask 'onedrive'
 cask 'onyx'
 cask 'openemu'
+cask 'orion'
 cask 'porting-kit'
 cask 'sequel-ace'
 cask 'soulseek'
@@ -127,7 +125,7 @@ cask 'transmission'
 cask 'wasabi-wallet'
 cask 'wacom-tablet'
 
-# mas install
+# "mas install [APP]"
 mas 'Xcode', id: 1419729466
 mas 'Final Cut Pro', id: 424389933
 mas 'Developer', id: 640199958
@@ -141,8 +139,8 @@ mas 'Logic Pro', id: 634148309
 mas 'Numbers', id: 409203825
 mas 'FastVPN', id: 1419729466
 
-# whalebrew install
+# "whalebrew install [APP]"
 # example: whalebrew 'whalebrew/wget'
 
-# vscode --install-extension
+# "vscode --install-extension [EXTENSION]"
 # example: vscode "GitHub.codespaces"

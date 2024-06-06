@@ -124,6 +124,7 @@ cask 'tor-browser'
 cask 'transmission'
 cask 'wasabi-wallet'
 cask 'wacom-tablet'
+cask 'zed'
 
 # "mas install [APP]"
 mas 'Xcode', id: 1419729466

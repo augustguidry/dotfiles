@@ -4,3 +4,6 @@
 vim.opt.cursorcolumn = true
 vim.opt.cursorline = true
 vim.opt.mouse = "a"
+
+-- Clipboard
+vim.opt.clipboard = "unnamedplus"

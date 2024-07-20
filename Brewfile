@@ -7,6 +7,7 @@
 # tap 'homebrew/services'
 
 # "brew install [APP]"
+brew 'aerc'
 brew 'asdf'
 brew 'bash'
 brew 'buku'
@@ -92,7 +93,6 @@ brew 'zsh-autosuggestions'
 brew 'zsh-syntax-highlighting'
 
 # "brew install --cask [APP]"
-cask 'alacritty'
 cask 'anki'
 cask 'appcleaner'
 cask 'blender'
@@ -101,7 +101,6 @@ cask 'customshortcuts'
 cask 'font-hack-nerd-font'
 cask 'font-monaspace'
 cask 'gemini'
-cask 'github'
 cask 'gpg-suite'
 cask 'iterm2'
 cask 'keyclu'
@@ -123,7 +122,6 @@ cask 'tor-browser'
 cask 'transmission'
 cask 'wasabi-wallet'
 cask 'wacom-tablet'
-cask 'zed'
 
 # "mas install [APP]"
 mas 'Xcode', id: 1419729466

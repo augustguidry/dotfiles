@@ -84,3 +84,5 @@ zle -N zle-keymap-select
 
 # Ensure the cursor is set correctly when starting Zsh
 precmd() { zle-line-init }
+
+ranger

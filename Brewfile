@@ -118,10 +118,11 @@ cask 'orion'
 cask 'porting-kit'
 cask 'sequel-ace'
 cask 'soulseek'
+cask 'the-unarchiver'
 cask 'tor-browser'
 cask 'transmission'
-cask 'wasabi-wallet'
 cask 'wacom-tablet'
+cask 'wasabi-wallet'
 
 # "mas install [APP]"
 mas 'Xcode', id: 1419729466

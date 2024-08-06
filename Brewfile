@@ -106,6 +106,7 @@ cask 'gpg-suite'
 cask 'iterm2'
 cask 'keyclu'
 cask 'krita'
+cask 'libreoffice'
 cask 'librewolf', args: { no_quarantine: true }
 cask 'love'
 cask 'mactracker'
@@ -128,14 +129,10 @@ cask 'wasabi-wallet'
 mas 'Xcode', id: 1419729466
 mas 'Final Cut Pro', id: 424389933
 mas 'Developer', id: 640199958
-mas 'Keynote', id: 409183694
 mas 'Userscripts-Mac-App', id: 1463298887
 mas 'Dark Reader for Safari', id:1438243180
-mas 'Pages', id: 409201541
-mas 'Vimari', id: 1480933944
 mas 'RSSHub Radar', id: 1610744717
 mas 'Logic Pro', id: 634148309
-mas 'Numbers', id: 409203825
 mas 'FastVPN', id: 1419729466
 
 # "whalebrew install [APP]"

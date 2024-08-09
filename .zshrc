@@ -48,6 +48,7 @@ export W3M_DIR="$XDG_DATA_HOME"/w3m
 export ZDOTDIR="$HOME"/.config/zsh
 
 # aliases
+alias love="/Applications/love.app/Contents/MacOS/love"
 alias ls='eza'
 alias neofetch='fastfetch'
 alias vi='nvim'

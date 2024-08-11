@@ -129,7 +129,6 @@ cask 'wasabi-wallet'
 mas 'Xcode', id: 1419729466
 mas 'Final Cut Pro', id: 424389933
 mas 'Developer', id: 640199958
-mas 'Userscripts-Mac-App', id: 1463298887
 mas 'Dark Reader for Safari', id:1438243180
 mas 'RSSHub Radar', id: 1610744717
 mas 'Logic Pro', id: 634148309

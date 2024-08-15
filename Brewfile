@@ -109,7 +109,6 @@ cask 'krita'
 cask 'libreoffice'
 cask 'librewolf', args: { no_quarantine: true }
 cask 'love'
-cask 'mactracker'
 cask 'mpv'
 cask 'musicbrainz-picard'
 cask 'obs'

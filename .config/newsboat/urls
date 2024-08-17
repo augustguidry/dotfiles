@@ -2,7 +2,6 @@ http://www.sleepycabin.rip/feed/ podcast humor
 https://3blue1brown.substack.com/feed blog math science
 https://alanweiss.com/blog/feed blog business finance PhD Weiss
 https://annas-blog.org/rss.xml blog library literature
-https://bitcoin.org/en/rss/releases.rss blog Bitcoin business crypto cryptocurrency finance technology
 https://chomsky.info/feed/ blog Chomsky language politics
 https://consciousdigital.org/feed/ blog privacy technology
 https://craphound.com/feed blog Doctorow technology
@@ -12,8 +11,6 @@ https://factorio.com/blog/rss blog games technology
 https://foosoft.net/feeds/posts.atom blog Japan technology
 https://fractalsoftworks.com/feed/ blog games technology
 https://gideonwolfe.com/index.xml blog technology
-https://gumroad.com/blog/rss.xml blog business finance technology
-https://junkcharts.typepad.com/junk_charts/rss.xml blog math science statistics
 https://leicarumors.com/feed/ blog Leica news photography
 https://lindypress.net/rss blog literature
 https://lukesmith.xyz/rss blog advice philosophy politics technology
@@ -25,7 +22,7 @@ https://neomutt.org/feed blog Mutt Neomutt technology
 https://news.ycombinator.com/rss blog news technology
 https://newsboat.org/news.atom blog news technology
 https://nofap.com/feed/ blog addiction advice
-https://notrelated.xyz/rss advice philosophy podcast politics
+https://notrelated.xyz/rss podcast advice philosophy politics
 https://pluralistic.net/feed/ blog Doctorow news politics technology
 https://radishmag.wordpress.com/feed/ blog politics
 https://sass-lang.com/feed.xml blog CSS language technology
@@ -35,11 +32,9 @@ https://stonetoss.com/feed blog humor politics Stonetoss
 https://suckless.org/atom.xml blog minimalism suckless technology
 https://techcrunch.com/feed/ blog technology
 https://tonsky.me/atom.xml blog technology
-https://videos.lukesmith.xyz/feeds/videos.xml?sort=-publishedAt&isLocal=true video philosophy technology
 https://www.43folders.com/rss.xml blog business technology
 https://www.allsides.com/rss/news blog politics news
 https://www.apple.com/newsroom/rss-feed.rss blog Apple technology
-https://www.chamonixhouse.com/blog?format=rss blog MDE
 https://www.getmonero.org/feed.xml blog business finance monero technology
 https://www.jetpens.com/blog/feed blog Japan stationery
 https://www.penaddict.com/blog?format=rss blog stationery
@@ -53,14 +48,18 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UC1WGeo5mOqJJIcFnO3OFY7A You
 https://www.youtube.com/feeds/videos.xml?channel_id=UC1h483R01zEPVlMxAE2BOow YouTube children humor Japan
 https://www.youtube.com/feeds/videos.xml?channel_id=UC2I6Et1JkidnnbWgJFiMeHA YouTube cooking food history humanities
 https://www.youtube.com/feeds/videos.xml?channel_id=UC2VpALLNxji_O20Mi6lZ3sQ YouTube animation games humor
+https://www.youtube.com/feeds/videos.xml?channel_id=UC2_krAagEXVPftDXZCDiVZA YouTube Japanese
 https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA YouTube advice business finance education history humanities humor politics technology
 https://www.youtube.com/feeds/videos.xml?channel_id=UC3Afj8DuNUu2PV74fJGw-Fw YouTube animation humor
-https://www.youtube.com/feeds/videos.xml?channel_id=UC3fDz8ptNK3bw4rHkGhjuZQ YouTube advice humor technology
+https://www.youtube.com/feeds/videos.xml?channel_id=UC3fDz8ptNK3bw4rHkGhjuZQ YouTube August Guidry advice humor photography technology
+https://www.youtube.com/feeds/videos.xml?channel_id=UC3xH0oV-ZgzxQ5DfGJCtLQQ YouTube Japanese
 https://www.youtube.com/feeds/videos.xml?channel_id=UC419PFikISpkirmylX5smqw YouTube humor
 https://www.youtube.com/feeds/videos.xml?channel_id=UC4RTOT3mJ21lviRCd8NNMhQ YouTube animation humor
 https://www.youtube.com/feeds/videos.xml?channel_id=UC4_qP33t3TGpEM0-96WfC6Q YouTube 2DGD technology
 https://www.youtube.com/feeds/videos.xml?channel_id=UC4nJnJ-HO5vVbGlJ14rf5yg YouTube games humor
+https://www.youtube.com/feeds/videos.xml?channel_id=UC4xKdmAXFh4ACyhpiQ_3qBw YouTube advice technology
 https://www.youtube.com/feeds/videos.xml?channel_id=UC5Dw9TFdbPJoTDMSiJdIQTA YouTube advice news politics
+https://www.youtube.com/feeds/videos.xml?channel_id=UC6MQ-fmg-gQlJB7LbQVgKtw YouTube humor Japan Japanese
 https://www.youtube.com/feeds/videos.xml?channel_id=UC6ZIKcLUAdxTUOB9yIo3baw YouTube humor paranormal
 https://www.youtube.com/feeds/videos.xml?channel_id=UC6lUqvh42Oc3XL19Edgd9QA YouTube games Kojima
 https://www.youtube.com/feeds/videos.xml?channel_id=UC7Ucs42FZy3uYzjrqzOIHsw YouTube games humor TV
@@ -71,9 +70,12 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UC8QxUP9hijWWQuqFMt20HqQ You
 https://www.youtube.com/feeds/videos.xml?channel_id=UC8wKWWarusivFpIcUx9ilOw YouTube technology
 https://www.youtube.com/feeds/videos.xml?channel_id=UCBmCnVNzF53mh-TERIc84Mw YouTube advice humor technology
 https://www.youtube.com/feeds/videos.xml?channel_id=UCD6VugMZKRhSyzWEWA9W2fg YouTube games humor
+https://www.youtube.com/feeds/videos.xml?channel_id=UCDiKw3GnFIwyNJBzhCoRI-Q YouTube technology
+https://www.youtube.com/feeds/videos.xml?channel_id=UCDqX_XZ_2FGdHtk1Agpw9Bg YouTube Bracey Hagen humor
 https://www.youtube.com/feeds/videos.xml?channel_id=UCGSGPehp0RWfca-kENgBJ9Q YouTube advice humanities
-https://www.youtube.com/feeds/videos.xml?channel_id=UCHXnesw0YDovA1HRercHGVQ YouTube advice humor MDE
+https://www.youtube.com/feeds/videos.xml?channel_id=UCHXnesw0YDovA1HRercHGVQ YouTube MDE advice humor philosophy
 https://www.youtube.com/feeds/videos.xml?channel_id=UCJwZeLXvTYLydWMHcLgREMQ YouTube advice humor MDE
+https://www.youtube.com/feeds/videos.xml?channel_id=UCMj4YareOFuEfxUBbncWF9w YouTube humor Japan
 https://www.youtube.com/feeds/videos.xml?channel_id=UCMm211NGh4Ls5SAMZJF7E8A YouTube education games
 https://www.youtube.com/feeds/videos.xml?channel_id=UCO01hzG88TzFEUjOQ937ZhA YouTube animation humor
 https://www.youtube.com/feeds/videos.xml?channel_id=UCOk99g-sLRGo48zXlBGR5fQ YouTube animation humor
@@ -88,6 +90,7 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCTu82QwOnouLvBrc1-00JWg You
 https://www.youtube.com/feeds/videos.xml?channel_id=UCUMwY9iS8oMyWDYIe6_RmoA YouTube advice education technology
 https://www.youtube.com/feeds/videos.xml?channel_id=UCUi2SFPyyDNcsH2ZGpHyQIQ YouTube education history humanities
 https://www.youtube.com/feeds/videos.xml?channel_id=UCV5wuGZmg_FGQp25uzKKDaw YouTube humor
+https://www.youtube.com/feeds/videos.xml?channel_id=UCVvntIDHnDFSKYIUFNz9yzQ YouTube advice Japan
 https://www.youtube.com/feeds/videos.xml?channel_id=UCY6VZZo9MZCyIIozTs0khNA YouTube advice education
 https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw YouTube math science
 https://www.youtube.com/feeds/videos.xml?channel_id=UCYh4SJwo9vWkfZwc0w4b4ng YouTube animation humor
@@ -97,14 +100,17 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCZznseJyVw94rxtVYnKkMDg You
 https://www.youtube.com/feeds/videos.xml?channel_id=UC_-hYjoNe4PJNFa9iZ4lraA YouTube business finance humor news
 https://www.youtube.com/feeds/videos.xml?channel_id=UC_k0jmhX7tFRKQcBUZBD18g YouTube
 https://www.youtube.com/feeds/videos.xml?channel_id=UC_us_hH43AJtU_A-iXCLmqw YouTube advice technology
+https://www.youtube.com/feeds/videos.xml?channel_id=UCaHT88aobpcvRFEuy4v5Clg YouTube humor news
 https://www.youtube.com/feeds/videos.xml?channel_id=UCcYw2GuJh1gkk5_4HM7q97Q YouTube humor
 https://www.youtube.com/feeds/videos.xml?channel_id=UCcaTUtGzOiS4cqrgtcsHYWg YouTube humor
 https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg YouTube finance technology
 https://www.youtube.com/feeds/videos.xml?channel_id=UCeGFPCKVL2gRHZSSor1TryQ YouTube humor
 https://www.youtube.com/feeds/videos.xml?channel_id=UCfAOh2t5DpxVrgS9NQKjC7A YouTube humor news
+https://www.youtube.com/feeds/videos.xml?channel_id=UCfZ5dI5MkCKt5My8mimV3WQ YouTube Japanese
 https://www.youtube.com/feeds/videos.xml?channel_id=UChFpHI3o0CrYQrACsg1wKqA YouTube humor
 https://www.youtube.com/feeds/videos.xml?channel_id=UCi8C7TNs2ohrc6hnRQ5Sn2w YouTube humor technology
 https://www.youtube.com/feeds/videos.xml?channel_id=UCiUkcNS6W0n8QdosuZASduQ YouTube advice humor
+https://www.youtube.com/feeds/videos.xml?channel_id=UCilCPlK_z6sKzpgl9dkXeBw YouTube animation
 https://www.youtube.com/feeds/videos.xml?channel_id=UCir4goG7LBQCh5rc3frkHuA YouTube humor
 https://www.youtube.com/feeds/videos.xml?channel_id=UCj8orMezFWVcoN-4S545Wtw YouTube games history humanities
 https://www.youtube.com/feeds/videos.xml?channel_id=UCjo1uN-aM3rmBV46xj7l2KA YouTube news
@@ -116,6 +122,7 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCmvXfmJEtURCEtHNbMXfDqg You
 https://www.youtube.com/feeds/videos.xml?channel_id=UCnW2hq-0-3Urmz12oK2z3mQ YouTube music
 https://www.youtube.com/feeds/videos.xml?channel_id=UCnYBE8oPZKoiovPlNcG5EwA YouTube animation humor
 https://www.youtube.com/feeds/videos.xml?channel_id=UCo66NgMNBdpXLBRkiP_LHQQ YouTube business finance
+https://www.youtube.com/feeds/videos.xml?channel_id=UCoydhtfFSk1fZXNRnkGnneQ YouTube philosophy
 https://www.youtube.com/feeds/videos.xml?channel_id=UCp2pLVMRCTCJh6WlQdFrH-A YouTube animation humor
 https://www.youtube.com/feeds/videos.xml?channel_id=UCpG9WL6TJuoNfFVkaDMp9ug YouTube Bitcoin finance
 https://www.youtube.com/feeds/videos.xml?channel_id=UCpd0n9H-HdK4GplD5RGvIDg YouTube animation Japan
@@ -125,6 +132,7 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCrjImfv2PReA1VhEfNaDOYw You
 https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA YouTube technology
 https://www.youtube.com/feeds/videos.xml?channel_id=UCsEPI9OwGEw5Lm0E7Paq62g YouTube advice
 https://www.youtube.com/feeds/videos.xml?channel_id=UCt-GOpCw4dOBlIyqL9A1ztA YouTube humor 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCwvBScHC88TWOorRXbfHYSg YouTube music
 https://www.youtube.com/feeds/videos.xml?channel_id=UCxAEGwPiV0NNG_qPZmf_D-g YouTube animation humor
 https://www.youtube.com/feeds/videos.xml?channel_id=UCxCFQfO05RinX6x_r5VVuiA YouTube photography
 https://www.youtube.com/feeds/videos.xml?channel_id=UCxSwqqnJp9HsW0hBrHcp1FQ YouTube politics

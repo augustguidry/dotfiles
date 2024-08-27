@@ -100,7 +100,6 @@ cask 'appcleaner'
 cask 'blender'
 cask 'calibre'
 cask 'customshortcuts'
-cask 'cyberduck'
 cask 'font-hack-nerd-font'
 cask 'font-monaspace'
 cask 'gemini'
@@ -123,14 +122,12 @@ cask 'soulseek'
 cask 'the-unarchiver'
 cask 'tor-browser'
 cask 'transmission'
-cask 'tunnelblick'
 cask 'wacom-tablet'
 cask 'wasabi-wallet'
 
 # "mas install [APP]"
 mas 'Xcode', id: 1419729466
 mas 'Final Cut Pro', id: 424389933
-mas 'RSSHub Radar', id: 1610744717
 mas 'Logic Pro', id: 634148309
 
 # "whalebrew install [APP]"

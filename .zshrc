@@ -26,7 +26,7 @@ setopt nocaseglob
 # exports
 export ANDROID_USER_HOME="$XDG_DATA_HOME"/android
 export ASDF_DATA_DIR="$XDG_DATA_HOME"/asdf
-export BROWSER="safari"
+export BROWSER="librewolf"
 export BUNDLE_USER_CACHE="$XDG_CACHE_HOME"/bundle
 export BUNDLE_USER_CONFIG="$XDG_CONFIG_HOME"/bundle
 export BUNDLE_USER_PLUGIN="$XDG_DATA_HOME"/bundle
@@ -40,8 +40,7 @@ export PATH="$HOME/.asdf/shims:$PATH"
 export PATH="/opt/homebrew/bin:$PATH"
 export PATH="/opt/homebrew/sbin:$PATH"
 export TERMINFO="$XDG_DATA_HOME"/terminfo
-export TERMINFO="$XDG_DATA_HOME"/terminfo                                                                         
-export TERMINFO_DIRS="$XDG_DATA_HOME"/terminfo:/usr/share/terminfo  
+export TERMINFO_DIRS="$XDG_DATA_HOME"/terminfo:/usr/share/terminfo
 export TLDR_CACHE_DIR="$XDG_CACHE_HOME"/tldr
 export VISUAL="$EDITOR"
 export W3M_DIR="$XDG_DATA_HOME"/w3m

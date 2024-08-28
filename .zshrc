@@ -14,7 +14,6 @@ export XDG_STATE_HOME="$HOME/.local/state"
 export XDG_VIDEOS_DIR="$HOME/Movies"
 
 #!/bin/zsh source
-source "$HOME/.iterm2_shell_integration.zsh"
 source /opt/homebrew/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
 # History in cache directory

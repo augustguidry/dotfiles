@@ -124,7 +124,6 @@ cask 'tor-browser'
 cask 'transmission'
 cask 'tunnelblick'
 cask 'wacom-tablet'
-cask 'wasabi-wallet'
 
 # "mas install [APP]"
 mas 'Xcode', id: 1419729466

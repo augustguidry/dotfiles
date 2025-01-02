@@ -1,0 +1,37 @@
+# configuration commands
+auto-reload yes
+reload-threads 100
+browser "xdg-open '%u'"
+confirm-exit yes
+datetime-format %Y-%m-%d
+display-article-progress yes
+
+# Dialog Title Formats
+feedlist-format "%i %t %d | %u #%T"
+articlelist-title-format "%i %D | %t"
+
+# openbrowser-and-mark-jumps-to-next-unread yes
+text-width 60
+
+# binds
+bind-key G end
+bind-key J next-feed articlelist
+bind-key K prev-feed articlelist
+bind-key Q hard-quit
+bind-key f goto-url
+bind-key g home
+bind-key h quit
+bind-key j down
+bind-key j next articlelist
+bind-key k prev articlelist
+bind-key k up
+bind-key l open
+
+# launch video player
+macro v set browser "setsid -f mpv" ; open-in-browser ; set browser linkhandler
+
+# download video
+macro d set browser "yt-dlp"; open-in-browser ; set browser linkhandler
+
+# download audio only
+macro a set browser "yt-dlp --embed-medatada -xic -f bestaudio/best" ; open-in-browser ; set browser linkhandler

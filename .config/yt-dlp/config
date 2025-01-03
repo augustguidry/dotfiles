@@ -1,0 +1,4 @@
+# Save all videos under XDG_VIDEOS_DIR
+-o $XDG_VIDEOS_DIR/%(title)s.%(ext)s
+
+-f "bestvideo[ext=webm]+bestaudio[ext=webm]/best[ext=webm]/best"

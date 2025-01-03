@@ -1,0 +1,10 @@
+[user]
+  email = august@augustguidry.com
+  name = August Guidry
+
+[core]
+  editor = nvim
+
+[init]
+  defaultBranch = master
+

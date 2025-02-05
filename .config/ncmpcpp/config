@@ -1,0 +1,17 @@
+autocenter_mode = "yes"
+browser_display_mode = "columns"
+centered_cursor = "yes"
+display_volume_level = no
+follow_now_playing_lyrics = "yes"
+ignore_leading_the = yes
+media_library_albums_split_by_date = no
+media_library_primary_tag = album_artist
+mpd_host = "127.0.0.1"
+mpd_music_dir = "~/Music/"
+mpd_port = "6600"
+ncmpcpp_directory = "~/.config/ncmpcpp"
+playlist_editor_display_mode = "columns"
+search_engine_display_mode = "columns"
+startup_screen = "media_library"
+use_console_editor = yes
+visualizer_type = "spectrum"

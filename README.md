@@ -1,9 +1,9 @@
-# August Guidry
+# dotfiles
 
-***This repository, <https://github.com/augustguidry/augustguidry>, contains my dotfiles.** If you would like to use them, download **yadm** using your favorite package manager. Then, run:
+***This repository, <https://github.com/gusguidry/dotfiles>, contains my dotfiles.** If you would like to use them, download **yadm** using your favorite package manager. Then, run:
 
 ```sh
-yadm clone git$github.com:augustguidry/augustguidry
+yadm clone git$github.com:gusguidry/dotfiles
 ```
 
 Das it mane.
